@@ -1,0 +1,19 @@
+{
+  "build": "MSFT_IP_FORM_VICTORIA_PREFILLED_LOCKED_20260608",
+  "checked": {
+    "learner_locked": true,
+    "learner_value": "Victoria Hughes-Smith",
+    "cohort_locked": true,
+    "cohort_value": "Year 1",
+    "hei_locked": true,
+    "date_incident_open_date_locked": true,
+    "trust_locked": true,
+    "personal_tutor_locked": true,
+    "personal_tutor_value": "Becca Richardson",
+    "investigator_locked": true,
+    "investigator_value": "Chris Doogan",
+    "summary_minimum_detail_validation": true,
+    "word_count_not_shown_to_learners": true,
+    "browser_alerts": false
+  }
+}
